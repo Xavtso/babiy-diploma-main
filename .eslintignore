@@ -1,0 +1,12 @@
+/.git
+/.vscode
+/.idea
+/.next
+node_modules/*
+**/node_modules/**
+src/serviceWorker.js
+src/settings/Configs
+src/styles
+.next
+public
+public/service-worker.js
